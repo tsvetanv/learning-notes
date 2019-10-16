@@ -26,3 +26,6 @@ This website helps in may stages to compare between the existing tools: https://
 - Swiftic: https://www.swiftic.com/
 - Mobincube: https://mobincube.com/
 - Appy Pie: https://www.appypie.com/
+
+## How to Write an Effective Product Requirements Document
+See this link: https://www.scalablepath.com/blog/how-to-write-an-effective-product-requirements-document/
