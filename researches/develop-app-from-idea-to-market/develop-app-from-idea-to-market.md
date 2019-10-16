@@ -29,3 +29,6 @@ This website helps in may stages to compare between the existing tools: https://
 
 ## How to Write an Effective Product Requirements Document
 See this link: https://www.scalablepath.com/blog/how-to-write-an-effective-product-requirements-document/
+
+## Choice of wireframe tool
+5 Best Wireframing Tools: https://www.webascender.com/blog/5-best-wireframing-tools/
