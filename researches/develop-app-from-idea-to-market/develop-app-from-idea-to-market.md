@@ -17,6 +17,7 @@ This website helps in may stages to compare between the existing tools: https://
 - find out tools which I need in different steps of development.
 
 ### Free Design tool to create a sitemap diagram
+- How can I see a sitemap for any website? https://www.quora.com/How-can-I-see-a-sitemap-for-any-website
 - GlooMaps:  https://www.gloomaps.com
 - Lucidchart: https://www.lucidchart.com
 
