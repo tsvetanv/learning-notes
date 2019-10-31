@@ -29,3 +29,12 @@ This website helps in may stages to compare between the existing tools: https://
 
 ## How to Write an Effective Product Requirements Document
 See this link: https://www.scalablepath.com/blog/how-to-write-an-effective-product-requirements-document/
+
+## Reverse Engineering Website Design
+- https://www.creativebloq.com/web-design/how-dissect-other-peoples-websites-51514995
+- https://www.cyotek.com/cyotek-webcopy
+-
+
+# Front-End Web resources
+1) MDN Web Docs (formerly MDN) -> https://mdn.dev/
+https://mdn.dev/
