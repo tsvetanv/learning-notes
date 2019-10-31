@@ -36,10 +36,10 @@ See this link: https://www.scalablepath.com/blog/how-to-write-an-effective-produ
 - https://www.creativebloq.com/web-design/how-dissect-other-peoples-websites-51514995
 - https://www.cyotek.com/cyotek-webcopy
 
-# Front-End Web resources
-1) MDN Web Docs (formerly MDN) -> https://mdn.dev/
+## Front-End Web resources
+- MDN Web Docs (formerly MDN) -> https://mdn.dev/
 
 
 ## Choice of wireframe tool
-5 Best Wireframing Tools: https://www.webascender.com/blog/5-best-wireframing-tools/
+Best Wireframing Tools: https://www.webascender.com/blog/5-best-wireframing-tools/
 
