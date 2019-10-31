@@ -17,6 +17,7 @@ This website helps in may stages to compare between the existing tools: https://
 - find out tools which I need in different steps of development.
 
 ### Free Design tool to create a sitemap diagram
+- How can I see a sitemap for any website? https://www.quora.com/How-can-I-see-a-sitemap-for-any-website
 - GlooMaps:  https://www.gloomaps.com
 - Lucidchart: https://www.lucidchart.com
 
@@ -30,11 +31,15 @@ This website helps in may stages to compare between the existing tools: https://
 ## How to Write an Effective Product Requirements Document
 See this link: https://www.scalablepath.com/blog/how-to-write-an-effective-product-requirements-document/
 
+
 ## Reverse Engineering Website Design
 - https://www.creativebloq.com/web-design/how-dissect-other-peoples-websites-51514995
 - https://www.cyotek.com/cyotek-webcopy
--
 
 # Front-End Web resources
 1) MDN Web Docs (formerly MDN) -> https://mdn.dev/
-https://mdn.dev/
+
+
+## Choice of wireframe tool
+5 Best Wireframing Tools: https://www.webascender.com/blog/5-best-wireframing-tools/
+
