@@ -38,14 +38,14 @@
 * Learn In Public (Shawn Wang): https://www.swyx.io/learn-in-public/
 
 # Full Stack Java Software Engineer - Resources
-Full Stack Developer: Front-End, Back-End and DevOps
-https://medium.com/florence-development/from-zero-to-full-stack-javascript-developer-how-to-teach-yourself-to-code-ef6e0b383331
-https://medium.com/@theSDEshow/becoming-a-full-stack-developer-from-scratch-in-2020-9718dd4a2616
-https://medium.com/@crampeteb/what-is-java-full-stack-tools-to-become-a-java-full-stack-developer-1bd194733f3c
-https://skillcrush.com/blog/how-to-become-a-full-stack-developer/
-https://www.upgrad.com/blog/skills-to-become-a-full-stack-developer/
-https://dzone.com/articles/11-skills-you-can-learn-to-become-an-expert-java-d
-10 Free Full stack Java development courses for Beginners and Experienced Programmers:
+* Full Stack Developer: Front-End, Back-End and DevOps
+* https://medium.com/florence-development/from-zero-to-full-stack-javascript-developer-how-to-teach-yourself-to-code-ef6e0b383331
+* https://medium.com/@theSDEshow/becoming-a-full-stack-developer-from-scratch-in-2020-9718dd4a2616
+* https://medium.com/@crampeteb/what-is-java-full-stack-tools-to-become-a-java-full-stack-developer-1bd194733f3c
+* https://skillcrush.com/blog/how-to-become-a-full-stack-developer/
+* https://www.upgrad.com/blog/skills-to-become-a-full-stack-developer/
+* https://dzone.com/articles/11-skills-you-can-learn-to-become-an-expert-java-d
+* 10 Free Full stack Java development courses for Beginners and Experienced Programmers:
 https://medium.com/javarevisited/10-free-full-stack-java-development-courses-for-beginners-and-experienced-programmers-8473390bec03
 
 ## Background Coding Music
