@@ -1,4 +1,11 @@
 
+## Prerequisites
+<ul>
+  <li>Linux (basic skills: commands, users/groups, files, networks)</li>
+  <li>Networking (Basics)</li>
+  <li>Bash scripting (Basics)</li>
+</ul> 
+
 ## General topics
 <ul>
   <li>Docker</li>
